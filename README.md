@@ -1,9 +1,7 @@
-# smu
-
 # Project README
 
 ## Requirements
-_The required bits and bobs of the project (e.g. CMS, Tailwind, etc.)_
+Refactor page for Marketing agency so that it follows accessibility standards and optimized for for search engines.
 
 ## Project Notes
 _Pertinent high-level information about the project_
