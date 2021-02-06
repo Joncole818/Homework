@@ -8,6 +8,7 @@ _The required bits and bobs of the project (e.g. CMS, Tailwind, etc.)_
 ## Project Notes
 _Pertinent high-level information about the project_
 
+## Change Notes
 
 ## Setup
 _Steps for setting things up, particularly if for a CMS_
