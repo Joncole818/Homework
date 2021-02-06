@@ -1,7 +1,7 @@
 # Project README
 
 ## Requirements
-_Refactor page for Marketing agency so that it follows accessibility standards and optimized for for search engines.
+Refactor page for Marketing agency so that it follows accessibility standards and optimized for for search engines.
 
 ## Project Notes
 _Pertinent high-level information about the project_
