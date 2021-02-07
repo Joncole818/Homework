@@ -7,6 +7,8 @@ Refactor page for Marketing agency so that it follows accessibility standards an
 _Pertinent high-level information about the project_
 
 ## Change Notes
+- Changed line Title from webpage to "Horiseon Main page"
+- Changed line 11,26 from div to <nav>
 
 ## Setup
 _Steps for setting things up, particularly if for a CMS_
